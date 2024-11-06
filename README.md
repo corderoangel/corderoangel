@@ -9,6 +9,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,html,java,js,md,mongodb,firebird,nodejs,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,express,html,java,js,md,mongodb,sql,nodejs,react,vscode&perline=14" />
   </a>
 </p>
