@@ -21,3 +21,8 @@
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=corderoangel&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
